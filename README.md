@@ -61,10 +61,11 @@ GitHub Repository: https://github.com/Soniyap16/gen-ai-task-agent
 
 Deployed API URL:  https://hackathon-agent-1073819819689.us-central1.run.app
 
-Interactive Docs: 
+Interactive Docs: https://drive.google.com/file/d/1pDW-9YWcOkLK01Xn_UNFpz7dKVCY8aoC/view?usp=drive_link
+
 
 🎥 Demo Video
-Watch the multi-agent system in action:
+Watch the multi-agent system in action:https://drive.google.com/file/d/1TysRj8c5WdPmIsWQz4eTTNML2RUnoZVl/view?usp=drive_link
 
 Authors
 
